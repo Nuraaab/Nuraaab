@@ -1,10 +1,10 @@
-<!-- Name Animation -->
+<!-- Name Animation (short and elegant) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=FF4500&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nuru+Ahmed;Full-Stack+Developer;Building+SaaS+and+Enterprise+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=FF4500&center=true&vCenter=true&width=500&lines=Hi,+I'm+Nuru+Ahmed;Full-Stack+Developer" />
 </h1>
 
 <p align="center">
-  I build clean, scalable, and user-focused applications with a strong emphasis on simplicity and performance.
+  I build scalable, user-focused applications and platforms with modern technologies.
 </p>
 
 ---
@@ -12,14 +12,28 @@
 ## ✨ About Me  
 - Full-Stack Developer  
 - Experienced in **multi-tenant systems, SaaS platforms, and inventory management applications**  
-- Passionate about clean architecture & UI/UX  
-- Focused on writing clean, maintainable, and scalable code  
-
-
+- Focused on clean architecture, scalable solutions, and maintainable code  
 
 ---
 
-## 📅 My Contributions
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,vue,laravel,php,docker,mongodb,aws,js,ts,express,node,strapi" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nuraaab&show_icons=true&hide_border=true&title_color=FF4500&icon_color=FF6B22&text_color=444&ring_color=FF4500" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuraaab&layout=compact&hide_border=true&title_color=FF4500&text_color=444" />
+</p>
+
+---
+
+## 📅 Yearly Contributions (Animated Squares + Total Count)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nuraaab&theme=orange&hide_border=true" />
