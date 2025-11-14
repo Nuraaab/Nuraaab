@@ -26,7 +26,7 @@
 
 ---
 
-## 📅 Yearly Contributions (Animated + Total Count)
+## 📅 Yearly Contributions
 
 <!-- Animated contribution squares -->
 <p align="center">
