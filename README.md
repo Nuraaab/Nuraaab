@@ -19,7 +19,7 @@
 
 ---
 
-## 📅 Yearly Contributions (Animated + Total Count)
+## 📅 My Contributions
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nuraaab&theme=orange&hide_border=true" />
