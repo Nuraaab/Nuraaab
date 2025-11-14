@@ -22,14 +22,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,vue,laravel,php,docker,mongodb,aws,js,ts,express,node,strapi" />
 </p>
 
----
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nuraaab&show_icons=true&hide_border=true&title_color=FF4500&icon_color=FF6B22&text_color=444&ring_color=FF4500" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuraaab&layout=compact&hide_border=true&title_color=FF4500&text_color=444" />
-</p>
 
 ---
 
