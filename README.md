@@ -10,9 +10,9 @@
 ---
 
 ## ✨ About Me  
-- Full-Stack Developer (Flutter + Laravel)  
+- Full-Stack Developer
 - Passionate about clean architecture & UI/UX  
-- Experience with API development, mobile apps & dashboards  
+- Experience with API development, mobile apps, Web apps, systems & Multitenancies
 - Focused on writing clean, maintainable code  
 
 ---
