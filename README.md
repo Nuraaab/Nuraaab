@@ -20,21 +20,36 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nuraaab&show_icons=true&hide_border=true&theme=graywhite" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuraaab&layout=compact&hide_border=true&theme=graywhite" height="160" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nuraaab&show_icons=true&hide_border=true&theme=graywhite" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuraaab&layout=compact&hide_border=true&theme=graywhite" />
 </p>
 
 ---
 
-## 📅 Yearly Contributions  
+## 📅 Yearly Contributions (Animated + Total Count)
 
+<!-- Animated contribution squares -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuraaab&theme=github-light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nuraaab&theme=default&hide_border=true" />
+</p>
+
+<!-- Total contributions count (auto-updating) -->
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api.svg?username=Nuraaab" />
 </p>
 
 ---
 
 ## 📫 Contact  
-- **Email:** ahmednuru215@gmail.com 
-- **Upwork:** https://www.upwork.com/freelancers/~01ceb2f7172c0cf233
-- **LinkedIn:** www.linkedin.com/in/nuru-ahmed-33b123209
+
+<p align="center">
+  <a href="mailto:ahmednuru215@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01ceb2f7172c0cf233">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nuru-ahmed-33b123209">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
