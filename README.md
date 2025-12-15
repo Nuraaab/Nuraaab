@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api.svg?username=Nuraaab&chart=calendar&theme=orange" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuraaab&theme=react-dark&hide_border=true" />
 </p>
 
 ---
