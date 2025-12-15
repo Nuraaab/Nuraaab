@@ -29,12 +29,13 @@
 ## 📅 My Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nuraaab&theme=orange&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Nuraaab&theme=orange&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuraaab&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuraaab&theme=orange&hide_border=true" />
 </p>
+
 
 ---
 
