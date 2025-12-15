@@ -29,7 +29,7 @@
 ## 📅 My Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nuraaab&theme=orange&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nuraaab&show_icons=true&theme=orange&hide_border=true" />
 </p>
 
 
